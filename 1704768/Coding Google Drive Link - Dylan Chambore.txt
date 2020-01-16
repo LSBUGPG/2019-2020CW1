@@ -1,0 +1,23 @@
+19/20, Game Programming AME_5_GPG_1920
+
+Coursework 1 - Dylan Chambore
+
+Google Drive Link: https://drive.google.com/open?id=1F8cMn34Gn7gaUYGgBjz9dN3GjqSSXvEm
+
+
+The submissions for this coursework includes:
+
+4 tutorials:
+- 2D movement & jumping
+- 2D movement mechanic
+- AI patrol
+- Dialogue System
+
+
+Learning Journal
+
+Programming Task Log
+
+Component programming project [zipped file]
+
+-- Email me if one of these or the link not working.
