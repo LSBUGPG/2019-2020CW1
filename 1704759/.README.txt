@@ -1,0 +1,12 @@
+Before you start, just to give you a bit of background, you are making a physics light game
+You a breaking this game down into 4 crucial componenets that allow the game to work. 
+To start the tutorial, open the word document "Programming Tutorial 1 - Camera Controller" to start. 
+
+-Link to game files is included in Tutorial 1
+-Directions on how to code the components and what they will do are in each tutorial.
+
+
+Good luck
+
+
+~D.
