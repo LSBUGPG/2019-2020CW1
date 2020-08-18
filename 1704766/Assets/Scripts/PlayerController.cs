@@ -110,7 +110,7 @@ public class PlayerController : MonoBehaviour
             wallstick = false;
         }
         //Teleport
-        destination = Input.mouseP osition;
+        destination = Input.mousePosition;
         destination = Camera.main.ScreenToWorldPoint(destination);
         if ((Input.GetKeyDown(KeyCode.Mouse0)) && tp == true && tpchar == true)
         {
